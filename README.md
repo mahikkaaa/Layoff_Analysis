@@ -4,6 +4,7 @@
 Keywords- Data Visualisation, Layoff, Industry, GDP, Country, Impact, Income, Employment, Laid
 
 Implementation: The first step in the methodology followed included data collection. 
+
 I used the Layoffs dataset [https://www.kaggle.com/datasets/swaptr/layoffs-2022] from Kaggle. 
 
 The dataset contains 9 columns mentioning the company, location, industry, number of total laid off, percent of total laid off, date, stage of company, the funds raised by each company and the countries they belong to from 2020 to 2022. The dataset was cleaned and pre-processed to remove null values and irrelevant columns.
